@@ -1,0 +1,89 @@
+@import url(http://fonts.googleapis.com/css?family=Cantarell);
+
+body, .ui-widget-content, button, input {
+	font-family:Cantarell, Verdana, Arial;
+	font-size:1.1em;
+}
+
+#main {
+	margin-left:1em;
+	width:20em;
+}
+
+h1 {
+	margin:0.25em;
+	font-weight:normal;
+	margin-right:200px;
+}
+
+h1 input {
+	font-size:1.0em;
+}
+
+#newPartForm {
+
+}
+
+#commodity-crap
+{
+	float:right;
+}
+
+#commodity-crap p.logo {
+	margin:0;
+}
+
+label#count.error {
+	color:red;
+}
+
+#newThweet {
+	width:3em;
+}
+
+.thweet {
+	height:50px;
+	padding:10px 0;
+	border-bottom:1px solid #eee;
+	position:relative;
+}
+
+.thweet p.info {
+	margin:0;
+	padding:0;
+	margin-left: 60px;
+	width:10em;
+}
+
+.thweet p.text {
+	position:absolute;
+	right:0;
+	top:0;
+	width:5em;
+}
+
+.thweet a {
+	text-decoration:none;
+	font-size:0.8em;
+	font-weight:bold;
+	color:#3db9dc;
+}
+
+.thweet a:visited { color:#3db9dc; }
+
+.thweet img {
+	position:absolute;
+}
+
+.thweet span {
+	font-size:1.5em;
+	color:#444;
+}
+
+.thweet abbr
+{
+	color:#aaa;
+	font-size:0.7em;
+	border:0;
+	display:block;
+}
